@@ -39,6 +39,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- TO RUN PYHTON-->
+		<!-- https://mvnrepository.com/artifact/org.python/jython -->
+		<dependency>
+			<groupId>org.python</groupId>
+			<artifactId>jython</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
